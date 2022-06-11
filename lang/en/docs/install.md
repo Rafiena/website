@@ -1,5 +1,5 @@
 ---
-id: docs_install
+id: rafiena
 guide: docs_getting_started
 layout: pages/install
 ---
